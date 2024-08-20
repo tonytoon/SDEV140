@@ -51,7 +51,7 @@ Greeting: Hello, Bob!
 ```
 
 ## Formatting Numbers
-You can format numbers using f-strings by specifying format specifiers after a colon : inside the curly braces:
+You can format numbers using f-strings by specifying format specifiers after a colon `:` inside the curly braces:
 
 ```python
 >>> pi = 3.14159
@@ -64,7 +64,7 @@ Pi to two decimal places: 3.142
 ```
 
 ## Text Alignment
-f-strings allow you to align text using <, >, or ^ for left, right, and center alignment, respectively:
+f-strings allow you to align text using `<`, `>`, or `^` for left, right, and center alignment, respectively:
 ```python
 >>> text = "Python"
 >>> print(f"{text:<10} | left-aligned")
