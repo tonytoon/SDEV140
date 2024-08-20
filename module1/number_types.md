@@ -5,7 +5,7 @@ subject: SDEV140 Intro to Software Development
 lang: "en"
 ---
 # SDEV140 - Introduction to Software Development
-# Numeric Data Types in Python
+## Numeric Data Types in Python
 
 ### Integers (int)
 Whole number, can be positive, negative, or zero.

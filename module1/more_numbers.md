@@ -5,7 +5,7 @@ subject: SDEV140 Intro to Software Development
 lang: "en"
 ---
 # SDEV140 - Introduction to Software Development 
-# More Numeric Operations in Python
+## More Numeric Operations in Python
 
 In addition to the basic mathematical operators, python allows use to use bitwise and augmented assignment operators. Bitwise operators perform bitwise math, while augmented assignment operators allow us to perform a mathematical operation in the same statement that we assign a value to a variable.
 
